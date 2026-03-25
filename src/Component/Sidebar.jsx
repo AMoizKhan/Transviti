@@ -2,7 +2,7 @@ import { ChevronDown } from "lucide-react";
 
 export default function Sidebar() {
     return (
-        <div className="mt-8"> {/* small padding on mobile */}
+        <div className="mt-8"> 
             <aside className="flex flex-col gap-[10px] overflow-hidden  rounded-2xl">
                 {/* Main Profile Grid */}
                 <div className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden">
